@@ -1,0 +1,5 @@
+ python
+ Mysql
+ pandas
+ pymysql
+ sqlalchemy
